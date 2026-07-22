@@ -1,0 +1,5 @@
+# Runtime dependencies for Streamlit Community Cloud
+streamlit>=1.35
+numpy>=1.26
+pandas>=2.0
+xgboost>=2.0
